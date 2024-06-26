@@ -6,3 +6,4 @@
    3. [Polynomial Regression](regression/polynomial_regression)
    4. [Support Vector Regression (SVR)](regression/support_vector_regression)
    5. [Decision Tree Regression](regression/decision_tree_regression)
+   6. [Random Forest Regression](regression/random_forest_regression)
