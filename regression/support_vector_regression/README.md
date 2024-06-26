@@ -27,12 +27,12 @@ The SVR model is based on the concept of the Support Vector Machine (SVM), which
 
 The SVR model can be expressed as:
 
-\[ y = \mathbf{w}^T \mathbf{x} + b \]
+y = w^T*x + b
 
 Where:
-- \( \mathbf{w} \) is the weight vector.
-- \( \mathbf{x} \) is the feature vector.
-- \( b \) is the bias term.
+- w is the weight vector.
+- x is the feature vector.
+- b is the bias term.
 
 ### Key Concepts of SVR
 
